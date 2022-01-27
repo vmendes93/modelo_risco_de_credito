@@ -42,4 +42,4 @@ Recomenda-se baixar todos os conteúdos deste repositório e que o usuários ten
 
  ## Créditos
 
- Gostaria de agradecer ao meu amigo [João Ralha](https://www.linkedin.com/in/jo%C3%A3o-ralha-5b768646/) que me auxiliou de começo ao fim no projeto e me deu várias dicas e insights de como organizar e tratar os dados.
+ Gostaria de agradecer ao meu amigo [João Ralha](https://github.com/jralha) que me auxiliou de começo ao fim no projeto e me deu várias dicas e insights de como organizar e tratar os dados.
